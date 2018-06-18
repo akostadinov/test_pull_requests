@@ -5,3 +5,4 @@ How second pull shows an issue. See for yourself.
 
 1. open 2 pull requests
 2. open them in 2 tabs of the browser
+3. wait until browser stops executing their javascript
